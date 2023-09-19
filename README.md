@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>WaveBotAssist Extension Privacy Policy</h1>
-    <p><strong>Last Updated:</strong> [Date]</p>
+    <p><strong>Last Updated:</strong> 19/09/2023</p>
 
     <p>Welcome to the WaveBotAssist extension (referred to as "the Extension"). We are dedicated to safeguarding user privacy, and this privacy policy explains our commitment not to collect any personal data when you use our extension.</p>
 
