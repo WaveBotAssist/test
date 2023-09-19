@@ -1,26 +1,34 @@
-WaveBotAssist Extension Privacy Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WaveBotAssist Extension Privacy Policy</title>
+</head>
+<body>
+    <h1>WaveBotAssist Extension Privacy Policy</h1>
+    <p><strong>Last Updated:</strong> [Date]</p>
 
-Last Updated: [Date]
+    <p>Welcome to the WaveBotAssist extension (referred to as "the Extension"). We are dedicated to safeguarding user privacy, and this privacy policy explains our commitment not to collect any personal data when you use our extension.</p>
 
-The WaveBotAssist extension (hereinafter referred to as "the Extension") is committed to safeguarding user privacy. This privacy policy clarifies that we do not collect any personal data when you use our extension.
+    <h2>1. Collection of Personal Data</h2>
 
-1. Collection of Personal Data
+    <p>We want to emphasize that we do not collect any personal data of any kind when you use the Extension. No personal information, such as your name, email address, or any other identifying information, is requested or stored by our Extension.</p>
 
-We want to emphasize that we do not collect any personal data of any kind when you use the Extension. No personal information, such as your name, email address, or any other identifying information, is requested or stored by our Extension.
+    <h2>2. Use of the Extension</h2>
 
-2. Use of the Extension
+    <p>The Extension is intentionally designed not to require or collect personal data. You can use it with confidence, knowing that your personal information will not be recorded or used for any purposes other than those for which you use it.</p>
 
-The Extension is designed not to require or collect personal data. You can use it with confidence, knowing that your personal information will not be recorded or used for any purposes other than those for which you use it.
+    <h2>3. Extension Security</h2>
 
-3. Extension Security
+    <p>Even though we do not collect any personal data, we still implement reasonable security measures to protect the integrity and security of the Extension itself.</p>
 
-Although we do not collect any personal data, we still take reasonable security measures to protect the integrity and security of the Extension itself.
+    <h2>4. Changes to the Privacy Policy</h2>
 
-4. Changes to the Privacy Policy
+    <p>We reserve the right to update this Privacy Policy periodically to reflect any changes in our data processing practices. However, these updates will not alter our commitment not to collect personal data.</p>
 
-We reserve the right to update this Privacy Policy from time to time to reflect any changes in our data processing practices. However, this will not alter our commitment not to collect personal data.
+    <h2>5. Contact</h2>
 
-5. Contact
-
-If you have any questions about this Privacy Policy or would like to learn more about our data protection practices, please contact us at the following address: [contact email address].
-
+    <p>If you have any questions about this Privacy Policy or would like to learn more about our data protection practices, please feel free to contact us at the following email address: <a href="mailto:[contact email address]">[contact email address]</a>.</p>
+</body>
+</html>
